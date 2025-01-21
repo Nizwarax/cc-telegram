@@ -1,7 +1,7 @@
 debug = False
-token = '123456:AABCDEAABCDEABCDE1234ABCDE'
+token = '7938172958:AAEPIZEH2T_gbXUwIVCVstzK9f6gKp-bOQo'
 name = 'shitsubot'
-owner = 'username'
+owner = '@dark_systemz'
 
 # Enable permanent redis store, otherwise temporary in-memory store will be used
 #redis_host =
